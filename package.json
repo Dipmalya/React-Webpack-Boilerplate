@@ -1,11 +1,10 @@
 {
-  "name": "webpack-starter",
+  "name": "react-webpack-boilerplate",
   "version": "1.0.0",
   "description": "",
   "main": "index.jsx",
   "scripts": {
-    "start": "webpack-dev-server --config ./webpack.config.js --mode development --fix",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack-dev-server --config ./webpack.config.js --mode development --fix"
   },
   "author": "Dipmalya Sen",
   "license": "ISC",
