@@ -8,10 +8,6 @@
         "node": true
     },
     "rules": {
-        "linebreak-style": "off",
-        "sort-keys": "off",
-        "require-unicode-regexp": "off",
-        "prefer-named-capture-group": "off",
         "max-len": [
             1,
             120,
@@ -22,7 +18,6 @@
         ]
     },
     "extends": [
-        "eslint:all",
         "plugin:react/all"
     ]
 }
